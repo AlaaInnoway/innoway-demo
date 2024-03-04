@@ -1,0 +1,25 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0,0,1024,1024">
+	<desc>folder_special icon - Licensed under Apache License v2.0 (http://www.apache.org/licenses/LICENSE-2.0) - Created with Iconfu.com - Derivative work of Material icons (Copyright Google Inc.)</desc>
+	<defs>
+		<linearGradient x1="0" y1="0" x2="1024" y2="1024" gradientUnits="userSpaceOnUse" id="color-7Dz37fZA">
+			<stop offset="0" stop-color="#ffea73" stop-opacity="0"/>
+			<stop offset="0.5" stop-color="#ffea73" stop-opacity="0"/>
+			<stop offset="0.5" stop-color="#dcd11f" stop-opacity="0.5"/>
+			<stop offset="1" stop-color="#dcd11f" stop-opacity="0.5"/>
+		</linearGradient>
+		<linearGradient x1="512" y1="0" x2="512" y2="1024" gradientUnits="userSpaceOnUse" id="color-B5NLm4xa">
+			<stop offset="0" stop-color="#ffea73"/>
+			<stop offset="1" stop-color="#dcd11f"/>
+		</linearGradient>
+		<linearGradient x1="462.42" y1="492.29" x2="1567.52" y2="1597.38" gradientUnits="userSpaceOnUse" id="color-pbcHZblo">
+			<stop offset="0.06" stop-color="#000000" stop-opacity="0.4"/>
+			<stop offset="0.56" stop-color="#000000" stop-opacity="0"/>
+		</linearGradient>
+	</defs>
+	<g fill="none" fill-rule="nonzero" style="mix-blend-mode: normal">
+		<path d="M825.75,1024h-627.51c-109.49,0 -198.25,-88.76 -198.25,-198.25v-627.51c0,-109.49 88.76,-198.25 198.25,-198.25h627.51c109.49,0 198.25,88.76 198.25,198.25v627.51c0,109.49 -88.76,198.25 -198.25,198.25z" fill="url(#color-B5NLm4xa)"/>
+		<path d="M825.75,1024h-627.51c-109.49,0 -198.25,-88.76 -198.25,-198.25v-627.51c0,-109.49 88.76,-198.25 198.25,-198.25h627.51c109.49,0 198.25,88.76 198.25,198.25v627.51c0,109.49 -88.76,198.25 -198.25,198.25z" fill="url(#color-7Dz37fZA)"/>
+		<path d="M513.79,661.33l21.31,-90.98l-75.37,-75.37l101.85,-8.66l40.02,-93.79l98.78,98.78l43.09,3.66l67.2,67.2v-169.65c0,-16.42 -6.72,-31.36 -17.55,-42.18l230.88,230.88v244.53c0,109.49 -88.76,198.25 -198.25,198.25h-304.26l-290.62,-290.62c10.83,10.83 25.76,17.55 42.19,17.55h330.32z" fill="url(#color-pbcHZblo)"/>
+		<path d="M810.67,392.53v298.67c0,32.85 -26.89,59.73 -59.74,59.73h-477.86c-32.85,0 -59.74,-26.88 -59.74,-59.73v-358.4c0,-32.85 26.89,-59.73 59.74,-59.73h179.2l59.73,59.73h238.93c32.85,0 59.74,26.88 59.74,59.73zM666.11,561.88l77.36,-66.9l-101.85,-8.66l-40.02,-93.79l-40.02,93.79l-101.85,8.66l77.36,66.9l-23.3,99.46l87.81,-51.37l87.81,51.37z" fill="#ffffff"/>
+	</g>
+</svg>

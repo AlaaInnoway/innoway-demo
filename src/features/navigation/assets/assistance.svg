@@ -1,0 +1,25 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0,0,1024,1024">
+	<desc>headset_mic icon - Licensed under Apache License v2.0 (http://www.apache.org/licenses/LICENSE-2.0) - Created with Iconfu.com - Derivative work of Material icons (Copyright Google Inc.)</desc>
+	<defs>
+		<linearGradient x1="330.39" y1="338.12" x2="1599.79" y2="1607.52" gradientUnits="userSpaceOnUse" id="color-29DFgeuc">
+			<stop offset="0.06" stop-color="#000000" stop-opacity="0.4"/>
+			<stop offset="0.56" stop-color="#000000" stop-opacity="0"/>
+		</linearGradient>
+		<linearGradient x1="512" y1="0" x2="512" y2="1024" gradientUnits="userSpaceOnUse" id="color-lAwfQlZZ">
+			<stop offset="0" stop-color="#f3cc9d"/>
+			<stop offset="1" stop-color="#e0b47f"/>
+		</linearGradient>
+		<linearGradient x1="0" y1="0" x2="1024" y2="1024" gradientUnits="userSpaceOnUse" id="color-t6vBSbEO">
+			<stop offset="0" stop-color="#f3cc9d" stop-opacity="0"/>
+			<stop offset="0.5" stop-color="#f3cc9d" stop-opacity="0"/>
+			<stop offset="0.5" stop-color="#e0b47f" stop-opacity="0.5"/>
+			<stop offset="1" stop-color="#e0b47f" stop-opacity="0.5"/>
+		</linearGradient>
+	</defs>
+	<g fill="none" fill-rule="nonzero" style="mix-blend-mode: normal">
+		<path d="M825.75,1024h-627.51c-109.49,0 -198.25,-88.76 -198.25,-198.25v-627.51c0,-109.49 88.76,-198.25 198.25,-198.25h627.51c109.49,0 198.25,88.76 198.25,198.25v627.51c0,109.49 -88.76,198.25 -198.25,198.25z" fill="url(#color-lAwfQlZZ)"/>
+		<path d="M825.75,1024h-627.51c-109.49,0 -198.25,-88.76 -198.25,-198.25v-627.51c0,-109.49 88.76,-198.25 198.25,-198.25h627.51c109.49,0 198.25,88.76 198.25,198.25v627.51c0,109.49 -88.76,198.25 -198.25,198.25z" fill="url(#color-t6vBSbEO)"/>
+		<path d="M269.41,724.72c16.2,16.2 38.6,26.21 63.39,26.21h89.6v-119.46l-119.47,-119.47v-59.73c0,-115.58 93.49,-209.07 209.07,-209.07c57.79,0 110.06,23.37 147.88,61.19l119.43,119.43c-6.61,-62.86 -34.9,-119.27 -77.25,-161.62l321.94,321.94v241.61c0,109.49 -88.76,198.25 -198.25,198.25h-257.07z" fill="url(#color-29DFgeuc)"/>
+		<path d="M780.8,452.27v298.66c0,49.58 -40.02,89.6 -89.6,89.6h-179.2v-59.73h209.07v-29.87h-119.47v-238.93h119.47v-59.73c0,-115.58 -93.48,-209.07 -209.07,-209.07c-115.58,0 -209.07,93.49 -209.07,209.07v59.73h119.47v238.93h-89.6c-49.58,0 -89.6,-40.02 -89.6,-89.6v-209.06c0,-148.43 120.37,-268.8 268.8,-268.8c148.43,0 268.8,120.37 268.8,268.8z" fill="#ffffff"/>
+	</g>
+</svg>

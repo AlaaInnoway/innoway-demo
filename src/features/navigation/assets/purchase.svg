@@ -1,0 +1,25 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0,0,1024,1024">
+	<desc>shopping_cart icon - Licensed under Apache License v2.0 (http://www.apache.org/licenses/LICENSE-2.0) - Created with Iconfu.com - Derivative work of Material icons (Copyright Google Inc.)</desc>
+	<defs>
+		<linearGradient x1="512" y1="0" x2="512" y2="1024" gradientUnits="userSpaceOnUse" id="color-aXkKRWFt">
+			<stop offset="0" stop-color="#f694ff"/>
+			<stop offset="1" stop-color="#ae44ad"/>
+		</linearGradient>
+		<linearGradient x1="0" y1="0" x2="1024" y2="1024" gradientUnits="userSpaceOnUse" id="color-GmxUl3z0">
+			<stop offset="0" stop-color="#f694ff" stop-opacity="0"/>
+			<stop offset="0.5" stop-color="#f694ff" stop-opacity="0"/>
+			<stop offset="0.5" stop-color="#ae44ad" stop-opacity="0.5"/>
+			<stop offset="1" stop-color="#ae44ad" stop-opacity="0.5"/>
+		</linearGradient>
+		<linearGradient x1="232.69" y1="223.84" x2="1571.94" y2="1563.09" gradientUnits="userSpaceOnUse" id="color-njDZxo2f">
+			<stop offset="0.06" stop-color="#000000" stop-opacity="0.4"/>
+			<stop offset="0.56" stop-color="#000000" stop-opacity="0"/>
+		</linearGradient>
+	</defs>
+	<g fill="none" fill-rule="nonzero" style="mix-blend-mode: normal">
+		<path d="M825.75,1024h-627.51c-109.49,0 -198.25,-88.76 -198.25,-198.25v-627.51c0,-109.49 88.76,-198.25 198.25,-198.25h627.51c109.49,0 198.25,88.76 198.25,198.25v627.51c0,109.49 -88.76,198.25 -198.25,198.25z" fill="url(#color-aXkKRWFt)"/>
+		<path d="M825.75,1024h-627.51c-109.49,0 -198.25,-88.76 -198.25,-198.25v-627.51c0,-109.49 88.76,-198.25 198.25,-198.25h627.51c109.49,0 198.25,88.76 198.25,198.25v627.51c0,109.49 -88.76,198.25 -198.25,198.25z" fill="url(#color-GmxUl3z0)"/>
+		<path d="M320.78,793.27c10.74,10.74 25.54,17.4 41.89,17.4c32.85,0 59.73,-26.89 59.73,-59.74c0,-1.85 -0.08,-3.67 -0.25,-5.48l-101.67,-101.67c10.83,10.83 25.76,17.55 42.19,17.55h69.14l-61.9,-61.9c-1.34,-1.34 -2.17,-3.21 -2.17,-5.3l0.9,-3.58l26.88,-48.68h56.75l-268.8,-268.8h59.73l268.8,268.8h66l-268.8,-268.8l-28.07,-59.74l328.54,328.54h8.36c22.4,0 42.11,-12.25 52.26,-30.77l106.92,-193.84c2.39,-4.18 3.58,-9.26 3.58,-14.34c0,-8.21 -3.36,-15.68 -8.77,-21.09l251.97,251.97v291.94c0,109.49 -88.76,198.25 -198.25,198.25h-274.24z" fill="url(#color-njDZxo2f)"/>
+		<path d="M281.13,213.33l28.07,59.74h441.73c16.43,0 29.87,13.43 29.87,29.86c0,5.07 -1.2,10.16 -3.58,14.34l-106.92,193.84c-10.16,18.52 -29.86,30.77 -52.26,30.77h-222.51l-26.88,48.68l-0.9,3.58c0,4.18 3.29,7.47 7.47,7.47h345.86v59.73h-358.4c-32.85,0 -59.74,-26.88 -59.74,-59.73c0,-10.45 2.69,-20.31 7.47,-28.67l40.32,-73.17l-107.52,-226.69h-59.73v-59.74zM422.4,750.93c0,32.85 -26.88,59.74 -59.73,59.74c-32.85,0 -59.44,-26.89 -59.44,-59.74c0,-32.85 26.59,-59.73 59.44,-59.73c32.85,0 59.73,26.88 59.73,59.73zM721.07,750.93c0,32.85 -26.89,59.74 -59.74,59.74c-32.85,0 -59.43,-26.89 -59.43,-59.74c0,-32.85 26.58,-59.73 59.43,-59.73c32.85,0 59.74,26.88 59.74,59.73z" fill="#ffffff"/>
+	</g>
+</svg>

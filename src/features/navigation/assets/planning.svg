@@ -1,0 +1,25 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0,0,1024,1024">
+	<desc>playlist_add_check icon - Licensed under Apache License v2.0 (http://www.apache.org/licenses/LICENSE-2.0) - Created with Iconfu.com - Derivative work of Material icons (Copyright Google Inc.)</desc>
+	<defs>
+		<linearGradient x1="512" y1="0" x2="512" y2="1024" gradientUnits="userSpaceOnUse" id="color-9z0RHY3n">
+			<stop offset="0" stop-color="#aa6edd"/>
+			<stop offset="1" stop-color="#8949c0"/>
+		</linearGradient>
+		<linearGradient x1="273.06" y1="302.93" x2="1480.68" y2="1510.55" gradientUnits="userSpaceOnUse" id="color-m2GqecRV">
+			<stop offset="0.06" stop-color="#000000" stop-opacity="0.4"/>
+			<stop offset="0.56" stop-color="#000000" stop-opacity="0"/>
+		</linearGradient>
+		<linearGradient x1="0" y1="0" x2="1024" y2="1024" gradientUnits="userSpaceOnUse" id="color-wuwGlX3m">
+			<stop offset="0" stop-color="#aa6edd" stop-opacity="0"/>
+			<stop offset="0.5" stop-color="#aa6edd" stop-opacity="0"/>
+			<stop offset="0.5" stop-color="#8949c0" stop-opacity="0.5"/>
+			<stop offset="1" stop-color="#8949c0" stop-opacity="0.5"/>
+		</linearGradient>
+	</defs>
+	<g fill="none" fill-rule="nonzero" style="mix-blend-mode: normal">
+		<path d="M825.75,1024h-627.51c-109.49,0 -198.25,-88.76 -198.25,-198.25v-627.51c0,-109.49 88.76,-198.25 198.25,-198.25h627.51c109.49,0 198.25,88.76 198.25,198.25v627.51c0,109.49 -88.76,198.25 -198.25,198.25z" fill="url(#color-9z0RHY3n)"/>
+		<path d="M825.75,1024h-627.51c-109.49,0 -198.25,-88.76 -198.25,-198.25v-627.51c0,-109.49 88.76,-198.25 198.25,-198.25h627.51c109.49,0 198.25,88.76 198.25,198.25v627.51c0,109.49 -88.76,198.25 -198.25,198.25z" fill="url(#color-wuwGlX3m)"/>
+		<path d="M213.33,601.6h119.47l-119.47,-119.47h119.47l-119.47,-119.47h358.4v-59.73l238.96,238.96l29.84,-29.89l183.47,183.47v130.28c0,109.49 -88.76,198.25 -198.25,198.25h-190.03z" fill="url(#color-m2GqecRV)"/>
+		<path d="M795.73,467.2l44.8,44.8l-208.77,209.06l-134.69,-134.4l44.8,-44.8l89.89,89.6zM571.73,482.13h-358.4v-59.73h358.4zM571.73,362.67h-358.4v-59.73h358.4zM213.33,541.87h238.94v59.74h-238.94z" fill="#ffffff"/>
+	</g>
+</svg>

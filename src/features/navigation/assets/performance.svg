@@ -1,0 +1,25 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0,0,1024,1024">
+	<desc>equalizer icon - Licensed under Apache License v2.0 (http://www.apache.org/licenses/LICENSE-2.0) - Created with Iconfu.com - Derivative work of Material icons (Copyright Google Inc.)</desc>
+	<defs>
+		<linearGradient x1="512" y1="0" x2="512" y2="1024" gradientUnits="userSpaceOnUse" id="color-EkE4eb14">
+			<stop offset="0" stop-color="#ecd65c"/>
+			<stop offset="1" stop-color="#d1c577"/>
+		</linearGradient>
+		<linearGradient x1="0" y1="0" x2="1024" y2="1024" gradientUnits="userSpaceOnUse" id="color-ijcrIKJ3">
+			<stop offset="0" stop-color="#ecd65c" stop-opacity="0"/>
+			<stop offset="0.5" stop-color="#ecd65c" stop-opacity="0"/>
+			<stop offset="0.5" stop-color="#d1c577" stop-opacity="0.5"/>
+			<stop offset="1" stop-color="#d1c577" stop-opacity="0.5"/>
+		</linearGradient>
+		<linearGradient x1="385.07" y1="459.73" x2="1532.8" y2="1607.46" gradientUnits="userSpaceOnUse" id="color-jpTsI0UJ">
+			<stop offset="0.06" stop-color="#000000" stop-opacity="0.4"/>
+			<stop offset="0.56" stop-color="#000000" stop-opacity="0"/>
+		</linearGradient>
+	</defs>
+	<g fill="none" fill-rule="nonzero" style="mix-blend-mode: normal">
+		<path d="M825.75,1024h-627.51c-109.49,0 -198.25,-88.76 -198.25,-198.25v-627.51c0,-109.49 88.76,-198.25 198.25,-198.25h627.51c109.49,0 198.25,88.76 198.25,198.25v627.51c0,109.49 -88.76,198.25 -198.25,198.25z" fill="url(#color-EkE4eb14)"/>
+		<path d="M825.75,1024h-627.51c-109.49,0 -198.25,-88.76 -198.25,-198.25v-627.51c0,-109.49 88.76,-198.25 198.25,-198.25h627.51c109.49,0 198.25,88.76 198.25,198.25v627.51c0,109.49 -88.76,198.25 -198.25,198.25z" fill="url(#color-ijcrIKJ3)"/>
+		<path d="M273.07,750.93h119.46v-238.93l179.2,179.2v-418.13l179.2,179.2v-29.87l273.07,273.07v130.28c0,109.49 -88.76,198.25 -198.25,198.25h-279.62z" fill="url(#color-jpTsI0UJ)"/>
+		<path d="M452.27,273.07h119.46v477.86h-119.46zM750.93,422.4v328.53h-119.46v-328.53zM273.07,512h119.46v238.93h-119.46z" fill="#ffffff"/>
+	</g>
+</svg>

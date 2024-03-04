@@ -1,0 +1,25 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0,0,1024,1024">
+	<desc>home icon - Licensed under Apache License v2.0 (http://www.apache.org/licenses/LICENSE-2.0) - Created with Iconfu.com - Derivative work of Material icons (Copyright Google Inc.)</desc>
+	<defs>
+		<linearGradient x1="0" y1="0" x2="1024" y2="1024" gradientUnits="userSpaceOnUse" id="color-EA3ey7Kc">
+			<stop offset="0" stop-color="#708090" stop-opacity="0"/>
+			<stop offset="0.5" stop-color="#708090" stop-opacity="0"/>
+			<stop offset="0.5" stop-color="#c0c0c0" stop-opacity="0.5"/>
+			<stop offset="1" stop-color="#c0c0c0" stop-opacity="0.5"/>
+		</linearGradient>
+		<linearGradient x1="512" y1="0" x2="512" y2="1024" gradientUnits="userSpaceOnUse" id="color-JfASfn5T">
+			<stop offset="0" stop-color="#708090"/>
+			<stop offset="1" stop-color="#c0c0c0"/>
+		</linearGradient>
+		<linearGradient x1="325.33" y1="414.93" x2="1517.87" y2="1607.47" gradientUnits="userSpaceOnUse" id="color-NGoNgI4t">
+			<stop offset="0.06" stop-color="#000000" stop-opacity="0.4"/>
+			<stop offset="0.56" stop-color="#000000" stop-opacity="0"/>
+		</linearGradient>
+	</defs>
+	<g fill="none" fill-rule="nonzero" style="mix-blend-mode: normal">
+		<path d="M825.75,1024h-627.51c-109.49,0 -198.25,-88.76 -198.25,-198.25v-627.51c0,-109.49 88.76,-198.25 198.25,-198.25h627.51c109.49,0 198.25,88.76 198.25,198.25v627.51c0,109.49 -88.76,198.25 -198.25,198.25z" fill="url(#color-JfASfn5T)"/>
+		<path d="M825.75,1024h-627.51c-109.49,0 -198.25,-88.76 -198.25,-198.25v-627.51c0,-109.49 88.76,-198.25 198.25,-198.25h627.51c109.49,0 198.25,88.76 198.25,198.25v627.51c0,109.49 -88.76,198.25 -198.25,198.25z" fill="url(#color-EA3ey7Kc)"/>
+		<path d="M213.33,526.93h89.6l149.34,149.34v-89.61h119.46l149.34,149.34v-209.07h89.6l213.33,213.33v85.49c0,109.49 -88.76,198.25 -198.25,198.25h-264.69l-258.13,-258.13h149.33z" fill="url(#color-NGoNgI4t)"/>
+		<path d="M302.93,765.87v-238.93h-89.6l298.67,-268.8l298.67,268.8h-89.6v238.93h-149.34v-179.2h-119.46v179.2z" fill="#ffffff"/>
+	</g>
+</svg>

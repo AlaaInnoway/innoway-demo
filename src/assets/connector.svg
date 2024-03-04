@@ -1,0 +1,25 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0,0,1024,1024">
+	<desc>device_hub icon - Licensed under Apache License v2.0 (http://www.apache.org/licenses/LICENSE-2.0) - Created with Iconfu.com - Derivative work of Material icons (Copyright Google Inc.)</desc>
+	<defs>
+		<linearGradient x1="0" y1="0" x2="1024" y2="1024" gradientUnits="userSpaceOnUse" id="color-IGgjNdrQ">
+			<stop offset="0" stop-color="#4dc4d9" stop-opacity="0"/>
+			<stop offset="0.5" stop-color="#4dc4d9" stop-opacity="0"/>
+			<stop offset="0.5" stop-color="#1d94a9" stop-opacity="0.5"/>
+			<stop offset="1" stop-color="#1d94a9" stop-opacity="0.5"/>
+		</linearGradient>
+		<linearGradient x1="364.24" y1="480.05" x2="1542.1" y2="1657.9" gradientUnits="userSpaceOnUse" id="color-oAO3Di4o">
+			<stop offset="0.06" stop-color="#000000" stop-opacity="0.4"/>
+			<stop offset="0.56" stop-color="#000000" stop-opacity="0"/>
+		</linearGradient>
+		<linearGradient x1="512" y1="0" x2="512" y2="1024" gradientUnits="userSpaceOnUse" id="color-tRRauE4G">
+			<stop offset="0" stop-color="#4dc4d9"/>
+			<stop offset="1" stop-color="#1d94a9"/>
+		</linearGradient>
+	</defs>
+	<g fill="none" fill-rule="nonzero" style="mix-blend-mode: normal">
+		<path d="M825.75,1024h-627.51c-109.49,0 -198.25,-88.76 -198.25,-198.25v-627.51c0,-109.49 88.76,-198.25 198.25,-198.25h627.51c109.49,0 198.25,88.76 198.25,198.25v627.51c0,109.49 -88.76,198.25 -198.25,198.25z" fill="url(#color-tRRauE4G)"/>
+		<path d="M825.75,1024h-627.51c-109.49,0 -198.25,-88.76 -198.25,-198.25v-627.51c0,-109.49 88.76,-198.25 198.25,-198.25h627.51c109.49,0 198.25,88.76 198.25,198.25v627.51c0,109.49 -88.76,198.25 -198.25,198.25z" fill="url(#color-IGgjNdrQ)"/>
+		<path d="M243.2,780.8h149.33v-91.09l119.47,-125.44l216.53,216.53h52.27v-29.86l-119.47,-119.47l-119.46,-119.47v-23.03l-93.27,-93.27c9.38,9.38 20.81,16.72 33.54,21.33l59.74,59.74v-59.74c34.64,-12.54 59.73,-45.39 59.73,-84.22c0,-24.79 -10,-47.19 -26.21,-63.39l448.61,448.61v107.74c0,109.49 -88.76,198.25 -198.25,198.25h-339.35z" fill="url(#color-oAO3Di4o)"/>
+		<path d="M780.8,631.47v149.33h-149.33v-91.09l-119.47,-125.44l-119.47,125.44v91.09h-149.33v-149.33h119.47l119.46,-119.47v-94.98c-34.64,-12.54 -59.73,-45.39 -59.73,-84.22c0,-49.58 40.02,-89.6 89.6,-89.6c49.58,0 89.6,40.02 89.6,89.6c0,38.83 -25.09,71.68 -59.73,84.22v94.98l119.46,119.47z" fill="#ffffff"/>
+	</g>
+</svg>

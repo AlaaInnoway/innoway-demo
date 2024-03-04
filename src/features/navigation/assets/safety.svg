@@ -1,0 +1,25 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0,0,1024,1024">
+	<desc>security icon - Licensed under Apache License v2.0 (http://www.apache.org/licenses/LICENSE-2.0) - Created with Iconfu.com - Derivative work of Material icons (Copyright Google Inc.)</desc>
+	<defs>
+		<linearGradient x1="512" y1="0" x2="512" y2="1024" gradientUnits="userSpaceOnUse" id="color-3Dnsp0aS">
+			<stop offset="0" stop-color="#6a6ac1"/>
+			<stop offset="1" stop-color="#748ed9"/>
+		</linearGradient>
+		<linearGradient x1="0" y1="0" x2="1024" y2="1024" gradientUnits="userSpaceOnUse" id="color-pJhZH7TV">
+			<stop offset="0" stop-color="#6a6ac1" stop-opacity="0"/>
+			<stop offset="0.5" stop-color="#6a6ac1" stop-opacity="0"/>
+			<stop offset="0.5" stop-color="#748ed9" stop-opacity="0.5"/>
+			<stop offset="1" stop-color="#748ed9" stop-opacity="0.5"/>
+		</linearGradient>
+		<linearGradient x1="343.03" y1="301.66" x2="1549.45" y2="1508.08" gradientUnits="userSpaceOnUse" id="color-qx6dvg9O">
+			<stop offset="0.06" stop-color="#000000" stop-opacity="0.4"/>
+			<stop offset="0.56" stop-color="#000000" stop-opacity="0"/>
+		</linearGradient>
+	</defs>
+	<g fill="none" fill-rule="nonzero" style="mix-blend-mode: normal">
+		<path d="M825.75,1024h-627.51c-109.49,0 -198.25,-88.76 -198.25,-198.25v-627.51c0,-109.49 88.76,-198.25 198.25,-198.25h627.51c109.49,0 198.25,88.76 198.25,198.25v627.51c0,109.49 -88.76,198.25 -198.25,198.25z" fill="url(#color-3Dnsp0aS)"/>
+		<path d="M825.75,1024h-627.51c-109.49,0 -198.25,-88.76 -198.25,-198.25v-627.51c0,-109.49 88.76,-198.25 198.25,-198.25h627.51c109.49,0 198.25,88.76 198.25,198.25v627.51c0,109.49 -88.76,198.25 -198.25,198.25z" fill="url(#color-pJhZH7TV)"/>
+		<path d="M512,778.71v-57.64l-209.07,-209.07v-170.24l209.07,-92.88l267.2,267.2c1.06,-11.24 1.6,-22.57 1.6,-33.95v-179.2l243.2,243.2v279.62c0,109.49 -88.76,198.25 -198.25,198.25h-196.88l-273.5,-273.5c43.43,43.43 97.09,75.49 156.63,90.03c15.95,-3.89 31.47,-9.04 46.49,-15.33z" fill="url(#color-qx6dvg9O)"/>
+		<path d="M780.8,302.93v179.2c0,165.76 -114.69,320.77 -268.8,358.4c-154.11,-37.63 -268.8,-192.64 -268.8,-358.4v-179.2l268.8,-119.46zM512,248.88l-209.07,92.88v170.24h209.07v266.71c111.1,-34.35 193.24,-143.96 209.07,-267.01h-209.07z" fill="#ffffff"/>
+	</g>
+</svg>

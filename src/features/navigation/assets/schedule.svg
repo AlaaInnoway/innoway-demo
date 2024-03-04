@@ -1,0 +1,25 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0,0,1024,1024">
+	<desc>event_available icon - Licensed under Apache License v2.0 (http://www.apache.org/licenses/LICENSE-2.0) - Created with Iconfu.com - Derivative work of Material icons (Copyright Google Inc.)</desc>
+	<defs>
+		<linearGradient x1="0" y1="0" x2="1024" y2="1024" gradientUnits="userSpaceOnUse" id="color-62Q8NMVV">
+			<stop offset="0" stop-color="#68d8bc" stop-opacity="0"/>
+			<stop offset="0.5" stop-color="#68d8bc" stop-opacity="0"/>
+			<stop offset="0.5" stop-color="#328276" stop-opacity="0.5"/>
+			<stop offset="1" stop-color="#328276" stop-opacity="0.5"/>
+		</linearGradient>
+		<linearGradient x1="512" y1="0" x2="512" y2="1024" gradientUnits="userSpaceOnUse" id="color-IRo9ZTgS">
+			<stop offset="0" stop-color="#68d8bc"/>
+			<stop offset="1" stop-color="#328276"/>
+		</linearGradient>
+		<linearGradient x1="289.28" y1="316.59" x2="1583.73" y2="1611.04" gradientUnits="userSpaceOnUse" id="color-oL1QQc3t">
+			<stop offset="0.06" stop-color="#000000" stop-opacity="0.4"/>
+			<stop offset="0.56" stop-color="#000000" stop-opacity="0"/>
+		</linearGradient>
+	</defs>
+	<g fill="none" fill-rule="nonzero" style="mix-blend-mode: normal">
+		<path d="M825.75,1024h-627.51c-109.49,0 -198.25,-88.76 -198.25,-198.25v-627.51c0,-109.49 88.76,-198.25 198.25,-198.25h627.51c109.49,0 198.25,88.76 198.25,198.25v627.51c0,109.49 -88.76,198.25 -198.25,198.25z" fill="url(#color-IRo9ZTgS)"/>
+		<path d="M825.75,1024h-627.51c-109.49,0 -198.25,-88.76 -198.25,-198.25v-627.51c0,-109.49 88.76,-198.25 198.25,-198.25h627.51c109.49,0 198.25,88.76 198.25,198.25v627.51c0,109.49 -88.76,198.25 -198.25,198.25z" fill="url(#color-62Q8NMVV)"/>
+		<path d="M302.93,750.93v-328.54h238.93l-149.33,-149.33v-59.73l209.06,209.06h119.48l59.73,59.73v-119.46l-89.6,-89.6v-59.73l332.8,332.8v279.62c0,109.49 -88.76,198.25 -198.25,198.25h-334.24l-230.81,-230.81c10.78,10.78 25.69,17.47 42.22,17.47h59.73z" fill="url(#color-oL1QQc3t)"/>
+		<path d="M780.8,332.8v418.14c0,32.85 -26.88,59.73 -59.73,59.73h-418.14c-33.15,0 -59.73,-26.88 -59.73,-59.73l0.3,-418.14c0,-32.85 26.28,-59.73 59.43,-59.73h29.87v-59.73h59.73v59.73h238.94v-59.73h59.73v59.73h29.87c32.85,0 59.73,26.88 59.73,59.73zM721.07,422.4h-418.14v328.54h418.14zM469.89,691.2l-94.98,-94.98l31.66,-31.65l63.32,63.31l145.75,-145.75l31.66,31.65z" fill="#ffffff"/>
+	</g>
+</svg>
